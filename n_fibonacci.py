@@ -21,6 +21,7 @@ def n_fibonacci():
                 a = b
                 b = c
             print(c)               
+            
 # You should not need to change any code below this point
 def main():
     print("This program displays the standard Fibonacci sequence that is n elements long.")
